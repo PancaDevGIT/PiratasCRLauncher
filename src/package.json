@@ -1,11 +1,11 @@
 {
-    "name": "DreamDarkLauncher",
-    "preductname": "DreamDarkLauncher",
-    "version": "0.0.1",
+    "name": "DreamDark_Launcher",
+    "preductname": "DreamDark Launcher",
+    "version": "1.0.2",
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
     "author": "PancaDev",
-    "url": "http://craftdium.ml/launcherSelvania",
+    "url": "http://51.79.100.51/MinecraftExtremo/",
     "engines": {
         "node": "^18.x.x"
     },
@@ -32,6 +32,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/PancaDevGIT/DreamLauncher.git"
     }
 }
